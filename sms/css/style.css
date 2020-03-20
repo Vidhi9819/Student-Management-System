@@ -1,0 +1,49 @@
+.admintitle
+{
+    background-color: #530602;
+    color: #fff;
+    height: 30%;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 140px;
+    text-align: center;
+}
+
+.dashboard
+{
+    background-color: aqua;
+    color: #000;
+    height: 30%;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+    
+}
+
+body{
+    background-color: aquamarine;
+    background-image: url('../images/163485.jpg');
+}
+
+body:before{
+    opacity: 0.5;
+}
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+td{
+    height: 40px;
+    padding: 5px;
+}
+
+.container:before{
+    opacity: 0.5;
+}
+
+table{
+    font-weight: bold;
+}

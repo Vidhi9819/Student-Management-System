@@ -1,0 +1,19 @@
+body{
+    background-image: url('../images/login.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    padding: 50px;
+}
+
+table{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+input{
+    width: 100%;
+}
